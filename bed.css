@@ -1,0 +1,12 @@
+img
+{
+    height: 500px;
+    width: 1000px;
+}
+button
+{
+    height: 50px;
+    width: 150px;
+    background-color: aqua;
+    color: azure;
+}
